@@ -12,4 +12,4 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: Every year thousands, if not millions of 0s or 1s switch as of cosmic energy!
 
-[link] (https://github.com/Eliseous-freelance/diss.git)
+[diss] (https://github.com/Eliseous-freelance/diss.git)
