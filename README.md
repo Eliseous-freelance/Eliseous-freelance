@@ -16,6 +16,8 @@
 <br>
 [crypto] (https://github.com/Eliseous-freelance/crypto_model.git)
 <br>
+[crypto_app] (https://github.com/Eliseous-freelance/crypto-sapp.git)
+<br>
 [Minesweeper] (https://github.com/Eliseous-freelance/MineSweeper-Uni-coursework.git)
 <br>
 [Clue] (https://github.com/Eliseous-freelance/Clue-Uni-coursework.git)
