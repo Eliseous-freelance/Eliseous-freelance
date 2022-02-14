@@ -14,9 +14,9 @@
 
 [diss] (https://github.com/Eliseous-freelance/diss.git)
 <br>
-[crypto] (https://github.com/Eliseous-freelance/crypto_model.git)
+[crypto_model] (https://github.com/Eliseous-freelance/crypto_model.git)
 <br>
-[crypto_app] (https://github.com/Eliseous-freelance/crypto-sapp.git)
+[crypto_sapp] (https://github.com/Eliseous-freelance/crypto-sapp.git)
 <br>
 [Minesweeper] (https://github.com/Eliseous-freelance/MineSweeper-Uni-coursework.git)
 <br>
@@ -33,8 +33,6 @@
 [Statistical Models] (https://github.com/Eliseous-freelance/StatisticalModelsClassification-Uni-coursework.git)
 <br>
 [Neural Networks] (https://github.com/Eliseous-freelance/NeuralNetworks-Uni-coursework.git)
-<br>
-[Library v1] (https://github.com/Eliseous-freelance/Library_v1-Uni-coursework.git)
 <br>
 [Face Alignment] (https://github.com/Eliseous-freelance/Facealignment-Uni-coursework.git)
 <br>
