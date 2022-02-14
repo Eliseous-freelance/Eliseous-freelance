@@ -48,6 +48,4 @@
 <br>
 [Eliseous.com] (https://github.com/Eliseous-freelance/Eliseous.com.git)
 <br>
-[Ethereum mining] (https://github.com/Eliseous-freelance/Etherum-mining.git)
-<br>
 [3dapp] (https://github.com/Eliseous-freelance/3dapp.git)
