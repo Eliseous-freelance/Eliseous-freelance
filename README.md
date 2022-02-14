@@ -14,7 +14,7 @@
 
 [diss] (https://github.com/Eliseous-freelance/diss.git)
 <br>
-[crypto] (https://github.com/Eliseous-freelance/crypto.git)
+[crypto] (https://github.com/Eliseous-freelance/crypto_model.git)
 <br>
 [Minesweeper] (https://github.com/Eliseous-freelance/MineSweeper-Uni-coursework.git)
 <br>
