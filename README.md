@@ -67,6 +67,5 @@
 [Ticket Machine - Uni coursework] (https://github.com/Eliseous-freelance/ticket-machine.git)
 <br>
 [An Agent Learns In an Environment - Uni coursework] (https://github.com/Eliseous-freelance/AnAgentLearnsInEnvironment-Uni-coursework.git)
-
-
+<br>
 Collaborating on: [OpenEduBot] (https://github.com/shepai/OpenEduBot.git)
