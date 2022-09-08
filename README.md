@@ -56,8 +56,6 @@
 <br>
 [Shoemakers - organisations data collection - Research Assistant] (https://github.com/Eliseous-freelance/ShoeMakers.git)
 <br>
-[eliseous.github.io - Hello World] (https://github.com/Eliseous-freelance/eliseous.github.io.git)
-<br>
 [The C World - Hello World] (https://github.com/Eliseous-freelance/the_C_world.git)
 <br>
 [IOS_Apps - Hello World] (https://github.com/Eliseous-freelance/IOS_app.git)
