@@ -1,69 +1,78 @@
-### Hi there 👋
+<h1>Eliseous - a freelancer in education
+
+<h3>Originally created this github account for freelance work, it is now a collection of repositories for different coursework undertaken during an undergraduate in Computer Science and Artificial Intelligence and a postgraduate course in Data Science, and projects I have been involved in up until now</h3>
 
 
-**Eliseous freelance** is a company that ✨ allows for ✨ implementations on demand
+<h2>The Data Science Society, Open Education, and Educational repos</h2>
+<ul>
+<li>[Computer Vision on Raspberri Pi] (https://github.com/Eliseous-freelance/OpenDay.git)</li>
+<li>[Data Driven Terrarium] (https://github.com/Eliseous-freelance/Terrarium.git)</li>
+<li>Collaborating on: [OpenEduBot] (https://github.com/shepai/OpenEduBot.git)</li>
+</ul>
 
-- 🔭 I’m currently working on Modelling for financial stability of a country
-- 🌱 I’m currently learning the most recent topics in Computer Science and Cognitive Science
-- 👯 I’m looking to collaborate on Any project involving the blockchain or financial information
-- 🤔 I’m looking for help with the interaction between the blockchain in a quicker way
-- 💬 Ask me about possible need for collaboration
-- 📫 How to reach me: Eliseous.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: Every year thousands, if not millions of 0s or 1s switch as of cosmic energy!
 
-[diss - Uni coursework] (https://github.com/Eliseous-freelance/diss.git)
-<br>
-[crypto_model - Hobby] (https://github.com/Eliseous-freelance/crypto_model.git)
-<br>
-[crypto_sapp - Hobby] (https://github.com/Eliseous-freelance/crypto-sapp.git)
-<br>
-[Minesweeper - Uni coursework] (https://github.com/Eliseous-freelance/MineSweeper-Uni-coursework.git)
-<br>
-[Clue - Uni coursework] (https://github.com/Eliseous-freelance/Clue-Uni-coursework.git)
-<br>
-[Checkers - Uni courwork] (https://github.com/Eliseous-freelance/Checkers-Uni-coursework.git)
-<br>
-[Library - Uni coursework] (https://github.com/Eliseous-freelance/Library-Uni-coursework.git)
-<br>
-[Graph - Uni coursework] (https://github.com/Eliseous-freelance/GraphImplementation-Uni-coursework.git)
-<br>
-[Racecourse Database- Uni coursework] (https://github.com/Eliseous-freelance/Racecourse-Uni-coursework.git)
-<br>
-[Statistical Classification Models - Uni coursework] (https://github.com/Eliseous-freelance/StatisticalModelsClassification-Uni-coursework.git)
-<br>
-[Neural Networks - Uni coursework] (https://github.com/Eliseous-freelance/NeuralNetworks-Uni-coursework.git)
-<br>
-[Face Alignment - Uni coursework] (https://github.com/Eliseous-freelance/Facealignment-Uni-coursework.git)
-<br>
-[Optimisation - Uni coursework] (https://github.com/Eliseous-freelance/Optimisation-Uni-Coursework.git)
-<br>
-[Sentiment analysis - Uni coursework] (https://github.com/Eliseous-freelance/ReviewSentimentAnalysis-Uni-coursework.git)
-<br>
-[Minefield - Uni coursework] (https://github.com/Eliseous-freelance/MineField-Uni-coursework.git)
-<br>
-[Distributional semantics - Uni coursework] (https://github.com/Eliseous-freelance/DistributionalSemantics-Uni-coursework.git)
-<br>
-[Learning in environment - Uni coursework] (https://github.com/Eliseous-freelance/AnAgentLearnsInEnvironment-Uni-coursework.git)
-<br>
-[Eliseous.com - Personal website] (https://github.com/Eliseous-freelance/Eliseous.com.git)
-<br>
-[3dapp - Uni coursework] (https://github.com/Eliseous-freelance/3dapp.git)
-<br>
-[Computer Vision on Raspberri Pi - Data Science Society] (https://github.com/Eliseous-freelance/OpenDay.git)
-<br>
-[Data Driven Terrarium - Research fellow - Data Science Society] (https://github.com/Eliseous-freelance/Terrarium.git)
-<br>
-[Shoemakers - organisations data collection - Research Assistant] (https://github.com/Eliseous-freelance/ShoeMakers.git)
-<br>
-[The C World - Hello World] (https://github.com/Eliseous-freelance/the_C_world.git)
-<br>
-[IOS_Apps - Hello World] (https://github.com/Eliseous-freelance/IOS_app.git)
-<br>
-[Barham Community - Volunteering] (https://github.com/Eliseous-freelance/BarhamCommunity.git)
-<br>
-[Ticket Machine - Uni coursework] (https://github.com/Eliseous-freelance/ticket-machine.git)
-<br>
-[An Agent Learns In an Environment - Uni coursework] (https://github.com/Eliseous-freelance/AnAgentLearnsInEnvironment-Uni-coursework.git)
-<br>
-Collaborating on: [OpenEduBot] (https://github.com/shepai/OpenEduBot.git)
+<h2>Data Oriented Research</h2>
+<ul>
+<li>[Shoemakers - organisations data collection] (https://github.com/Eliseous-freelance/ShoeMakers.git)</li>
+</ul>
+
+<h2>
+Coursework
+</h2>
+<h3>Games</h3>
+<ul>
+<li>[Undergraduate Dissertation] (https://github.com/Eliseous-freelance/diss.git)</li>
+<li>[Minefield] (https://github.com/Eliseous-freelance/MineField-Uni-coursework.git)</li>
+<li>[Minesweeper] (https://github.com/Eliseous-freelance/MineSweeper-Uni-coursework.git)</li>
+<li>[Cluedo] (https://github.com/Eliseous-freelance/Clue-Uni-coursework.git)</li>
+<li>[Checkers] (https://github.com/Eliseous-freelance/Checkers-Uni-coursework.git)</li>
+</ul>
+<h3>Applications</h3>
+<ul>
+<li>[Library] (https://github.com/Eliseous-freelance/Library-Uni-coursework.git)</li>
+<li>[Ticket Machine] (https://github.com/Eliseous-freelance/ticket-machine.git)</li>
+<li>[3D web application] (https://github.com/Eliseous-freelance/3dapp.git)</li>
+</ul>
+<h3>Learning</h3>
+<ul>
+<li>[An implementation of a Graph] (https://github.com/Eliseous-freelance/GraphImplementation-Uni-coursework.git)</li>
+<li>[Racecourse Database] (https://github.com/Eliseous-freelance/Racecourse-Uni-coursework.git)</li>
+<li></li>
+</ul>
+<h3>The AI world</h3>
+<ul>
+<li>[Statistical Classification Models] (https://github.com/Eliseous-freelance/StatisticalModelsClassification-Uni-coursework.git)</li>
+<li>[Neural Networks] (https://github.com/Eliseous-freelance/NeuralNetworks-Uni-coursework.git)</li>
+<li>[Optimisation] (https://github.com/Eliseous-freelance/Optimisation-Uni-Coursework.git)</li>
+<li>[Learning in environment] (https://github.com/Eliseous-freelance/AnAgentLearnsInEnvironment-Uni-coursework.git)</li>
+</ul>
+
+<h3>The Computer vision world</h3>
+<ul>
+<li>[Face Alignment] (https://github.com/Eliseous-freelance/Facealignment-Uni-coursework.git)</li>
+</ul>
+
+<h3>The Natural Language Engineering world</h3>
+<ul>
+<li>[Sentiment analysis] (https://github.com/Eliseous-freelance/ReviewSentimentAnalysis-Uni-coursework.git)</li>
+<li>[Distributional semantics] (https://github.com/Eliseous-freelance/DistributionalSemantics-Uni-coursework.git)</li>
+</ul>
+
+<h2>The unfinished Hobbies</h2>
+<ul>
+<li>[crypto_model] (https://github.com/Eliseous-freelance/crypto_model.git)</li>
+<li>[crypto_sapp] (https://github.com/Eliseous-freelance/crypto-sapp.git)</li>
+<li>[Eliseous.com - Personal website] (https://github.com/Eliseous-freelance/Eliseous.com.git)</li>
+</ul>
+
+<h2>Volunteering</h2>
+<ul>
+<li>[Barham Community] (https://github.com/Eliseous-freelance/BarhamCommunity.git)</li>
+</ul>
+
+<h2>Learning new programming languages</h2>
+<ul>
+<li>[IOS_Apps - Hello World] (https://github.com/Eliseous-freelance/IOS_app.git)</li>
+<li>[The C World - Hello World] (https://github.com/Eliseous-freelance/the_C_world.git)</li>
+</ul>
+
