@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+  <head></head>
+<body>
 <h1>Eliseous - a freelancer in education
 
 <h3>Originally created this github account for freelance work, it is now a collection of repositories for different coursework undertaken during an undergraduate in Computer Science and Artificial Intelligence and a postgraduate course in Data Science, and projects I have been involved in up until now</h3>
@@ -75,4 +79,6 @@ Coursework
 <li>[IOS_Apps - Hello World] (https://github.com/Eliseous-freelance/IOS_app.git)</li>
 <li>[The C World - Hello World] (https://github.com/Eliseous-freelance/the_C_world.git)</li>
 </ul>
+  </body>
 
+</html>
