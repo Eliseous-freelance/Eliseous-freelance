@@ -73,6 +73,7 @@ Coursework
 <h2>Volunteering</h2>
 <ul>
 <li>[Barham Community] (https://github.com/Eliseous-freelance/BarhamCommunity.git)</li>
+<li>[Maze Generation and Navigation] (https://github.com/Eliseous-freelance/MazeGenerationAndControlUsingMachineLearning.git)</li>
 </ul>
 
 <h2>Learning new programming languages</h2>
