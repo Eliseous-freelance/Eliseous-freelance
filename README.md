@@ -13,6 +13,7 @@
 <li>[Data Driven Terrarium] (https://github.com/Eliseous-freelance/Terrarium.git)</li>
 <li>Collaborating on: [OpenEduBot] (https://github.com/shepai/OpenEduBot.git)</li>
 <li>Collaborating on: [Colourful t-shirt counter] (https://github.com/Eliseous-freelance/Colourful-T-shirts-Counter.git)</li>
+<li>[LCD Arduino Set Up] (https://github.com/Eliseous-freelance/LCD_Arduino_SetUP.git) 
 </ul>
 
 
