@@ -4,7 +4,7 @@
 <body>
 <h1>Eliseous - a freelancer in education
 
-<h3>Originally created this github account for freelance work, it is now a collection of repositories for different coursework undertaken during an undergraduate in Computer Science and Artificial Intelligence and a postgraduate course in Data Science, and projects I have been involved in up until now</h3>
+<h3>Originally created for freelance work, it is now a collection of repositories for different coursework undertaken during an undergraduate in Computer Science and Artificial Intelligence and a postgraduate course in Data Science, and projects I have been involved in up until now</h3>
 
 
 <h2>The Data Science Society, Open Education, and Educational repos</h2>
