@@ -20,6 +20,7 @@
 <h2>Data Oriented Research</h2>
 <ul>
 <li>[Shoemakers - organisations data collection] (https://github.com/Eliseous-freelance/ShoeMakers.git)</li>
+<li>[All about data] (https://github.com/Eliseous-freelance/Data_Science_all_about_data.git)</li>
 </ul>
 
 <h2>
@@ -81,6 +82,10 @@ Coursework
 <ul>
 <li>[IOS_Apps - Hello World] (https://github.com/Eliseous-freelance/IOS_app.git)</li>
 <li>[The C World - Hello World] (https://github.com/Eliseous-freelance/the_C_world.git)</li>
+</ul>
+<h2>Random</h2>
+<ul>
+<li>[Nerdying out on programming] (https://github.com/Eliseous-freelance/Nerd-Nights-programming-and-my-obsession-in-collecting-code-and-data</li>
 </ul>
   </body>
 
