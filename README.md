@@ -30,6 +30,11 @@
   <li>[Data analysis techniques]</li>
   <li>[Applied Natural Language Processing]</li>
   </ul>
+  <h2>Data collection, manipulation and web scraping</h2>
+  <ul>
+    <li>[The shoemakers industry]()</li>
+    <li>[The Volleynall world]()</li>
+  </ul>
   
 <h2>Computer Science and Artificial Intelligence</h2>
 <h3>Games</h3>
