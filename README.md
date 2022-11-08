@@ -92,24 +92,24 @@
 <li>[Eliseous.com - Personal website] (https://github.com/Eliseous-freelance/Eliseous.com.git)</li>
 </ul>
 
-<h3>Volunteering</h3>
+<h2>Volunteering</h2>
 <ul>
 <li>[Barham Community - web development] (https://github.com/Eliseous-freelance/BarhamCommunity.git)</li>
 <li>[Maze Generation and Navigation - tutoring] (https://github.com/Eliseous-freelance/MazeGenerationAndControlUsingMachineLearning.git)</li>
 </ul>
 
-<h3>Learning new programming languages</h3>
+<h2>Learning new programming languages</h2>
 <ul>
 <li>[IOS_Apps - Hello World] (https://github.com/Eliseous-freelance/IOS_app.git)</li>
 <li>[The C World - Hello World] (https://github.com/Eliseous-freelance/the_C_world.git)</li>
 </ul>
   
-  <h3>Boring Routines automitised</h3>
+  <h2>Boring Routines automitised</h2>
   <ul>
    <li>[AppleScripting - Safe all Safari pages] ()</li>
   <li>[Schedulling the world](https://github.com/Eliseous-freelance/SchedullingTheWorld.git)</li>
   </ul>
-<h3>Random</h3>
+<h2>Random</h2>
 <ul>
 <li>[Nerdying out on programming] (https://github.com/Eliseous-freelance/Nerd-Nights-programming-and-my-obsession-in-collecting-code-and-data</li>
 </ul>
