@@ -4,7 +4,7 @@
 <body>
 <h1>Eliseous - a freelancer in education
 
-<h3>Originally created for freelance work, it is now a collection of repositories for different coursework undertaken during an undergraduate in Computer Science and Artificial Intelligence and a postgraduate course in Data Science, and projects I have been involved in up until now</h3>
+<h4>Originally created for freelance work, it is now a collection of repositories for different coursework undertaken during an undergraduate in Computer Science and Artificial Intelligence and a postgraduate course in Data Science, and projects I have been involved in up until now</h4>
 
 
 <h2>The Data Science Society, Open Education, and Educational repos</h2>
@@ -23,9 +23,7 @@
 <li>[All about data] (https://github.com/Eliseous-freelance/Data_Science_all_about_data.git)</li>
 </ul>
 
-  <h2>
-    Data Science 
-  </h2>  
+  <h2>Data Science</h2>  
 <ul>
   <li>[Data Science Research Methods]</li>
   <li>[Algorithmic Data Science]</li>
@@ -33,9 +31,7 @@
   <li>[Applied Natural Language Processing]</li>
   </ul>
   
-<h2>
-Computer Science and Artificial Intelligence - Coursework 
-</h2>
+<h2>Computer Science and Artificial Intelligence</h2>
 <h3>Games</h3>
 <ul>
 <li>[Minefield] (https://github.com/Eliseous-freelance/MineField-Uni-coursework.git)</li>
