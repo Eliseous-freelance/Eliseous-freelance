@@ -76,26 +76,27 @@
 <li>[Distributional semantics - Natural Language Engineering] (https://github.com/Eliseous-freelance/DistributionalSemantics-Uni-coursework.git)</li>
 </ul>
 
-<h2>The unfinished Hobbies</h2>
+<h3>The unfinished Hobbies</h3>
 <ul>
 <li>[crypto_model] (https://github.com/Eliseous-freelance/crypto_model.git)</li>
 <li>[crypto_sapp - software development] (https://github.com/Eliseous-freelance/crypto-sapp.git)</li>
 <li>[Eliseous.com - Personal website] (https://github.com/Eliseous-freelance/Eliseous.com.git)</li>
 </ul>
 
-<h2>Volunteering</h2>
+<h3>Volunteering</h3>
 <ul>
 <li>[Barham Community - web development] (https://github.com/Eliseous-freelance/BarhamCommunity.git)</li>
 <li>[Maze Generation and Navigation - tutoring] (https://github.com/Eliseous-freelance/MazeGenerationAndControlUsingMachineLearning.git)</li>
 </ul>
 
-<h2>Learning new programming languages</h2>
+<h3>Learning new programming languages</h3>
 <ul>
 <li>[IOS_Apps - Hello World] (https://github.com/Eliseous-freelance/IOS_app.git)</li>
 <li>[The C World - Hello World] (https://github.com/Eliseous-freelance/the_C_world.git)</li>
 <li>[AppleScripting - Safe all Safari pages] (https://github.com/Eliseous-freelance/the_C_world.git)</li>
 </ul>
-<h2>Random</h2>
+  
+<h3>Random</h3>
 <ul>
 <li>[Nerdying out on programming] (https://github.com/Eliseous-freelance/Nerd-Nights-programming-and-my-obsession-in-collecting-code-and-data</li>
 </ul>
