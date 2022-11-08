@@ -103,6 +103,10 @@
 <li>[IOS_Apps - Hello World] (https://github.com/Eliseous-freelance/IOS_app.git)</li>
 <li>[The C World - Hello World] (https://github.com/Eliseous-freelance/the_C_world.git)</li>
 </ul>
+  <h2>West London College</h2>
+  <ul>
+    <li>[A calculator](https://github.com/Eliseous-freelance/calculatorWestLondonCollege.git)</li>
+  </ul>
   
   <h2>Boring Routines automitised</h2>
   <ul>
