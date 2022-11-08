@@ -36,6 +36,15 @@
     <li>[The Volleynall world]()</li>
   </ul>
   
+<h2>Sussex Dynamics</h2>
+  <ul>
+    <li>[People detector - Computer Vision] (https://github.com/Eliseous-freelance/Multi_People_Detector-OpenEdu.git)</li>
+    <li>[Terrarium - Data Collection](https://github.com/Eliseous-freelance/Terrarium.git)</li>
+    <li>[Terrarium - Data Chaos](https://github.com/Eliseous-freelance/Chaotic-Terrarium-Environment.git)</li>
+    <li>[Generative Art from Music](https://github.com/Eliseous-freelance/generativeArtMusicLibraryOpenEdu.git)</li>
+    <li>[Colorful t-shirt counter - Computer Vision](https://github.com/Eliseous-freelance/Colourful-T-shirts-Counter.git)</li>
+  </ul>
+  
 <h2>Computer Science and Artificial Intelligence</h2>
 <h3>Games</h3>
 <ul>
@@ -93,9 +102,13 @@
 <ul>
 <li>[IOS_Apps - Hello World] (https://github.com/Eliseous-freelance/IOS_app.git)</li>
 <li>[The C World - Hello World] (https://github.com/Eliseous-freelance/the_C_world.git)</li>
-<li>[AppleScripting - Safe all Safari pages] (https://github.com/Eliseous-freelance/the_C_world.git)</li>
 </ul>
   
+  <h3>Boring Routines automitised</h3>
+  <ul>
+   <li>[AppleScripting - Safe all Safari pages] ()</li>
+  <li>[Schedulling the world](https://github.com/Eliseous-freelance/SchedullingTheWorld.git)</li>
+  </ul>
 <h3>Random</h3>
 <ul>
 <li>[Nerdying out on programming] (https://github.com/Eliseous-freelance/Nerd-Nights-programming-and-my-obsession-in-collecting-code-and-data</li>
