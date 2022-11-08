@@ -39,41 +39,41 @@
 <h2>Computer Science and Artificial Intelligence</h2>
 <h3>Games</h3>
 <ul>
-<li>[Minefield] (https://github.com/Eliseous-freelance/MineField-Uni-coursework.git)</li>
-<li>[Minesweeper] (https://github.com/Eliseous-freelance/MineSweeper-Uni-coursework.git)</li>
-<li>[Cluedo] (https://github.com/Eliseous-freelance/Clue-Uni-coursework.git)</li>
-<li>[Checkers] (https://github.com/Eliseous-freelance/Checkers-Uni-coursework.git)</li>
+<li>[Minefield] (https://github.com/Eliseous-freelance/MineField.git)</li>
+<li>[Minesweeper] (https://github.com/Eliseous-freelance/MineSweeper.git)</li>
+<li>[Cluedo] (https://github.com/Eliseous-freelance/Clue.git)</li>
+<li>[Checkers] (https://github.com/Eliseous-freelance/Checkers.git)</li>
 </ul>
 <h3>Applications</h3>
 <ul>
-<li>[Library - Introduction to programming] (https://github.com/Eliseous-freelance/Library-Uni-coursework.git)</li>
+<li>[Library - Introduction to programming] (https://github.com/Eliseous-freelance/Library.git)</li>
 <li>[Ticket Machine - Introduction to programming] (https://github.com/Eliseous-freelance/ticket-machine.git)</li>
 <li>[3D web application - Web3D Applications] (https://github.com/Eliseous-freelance/3dapp.git)</li>
 </ul>
 <h3>Learning</h3>
 <ul>
-<li>[An implementation of a Graph - Data Structures and algorithms] (https://github.com/Eliseous-freelance/GraphImplementation-Uni-coursework.git)</li>
-<li>[Racecourse Database - Databases] (https://github.com/Eliseous-freelance/Racecourse-Uni-coursework.git)</li>
+<li>[An implementation of a Graph - Data Structures and algorithms] (https://github.com/Eliseous-freelance/GraphImplementation.git)</li>
+<li>[Racecourse Database - Databases] (https://github.com/Eliseous-freelance/Racecourse.git)</li>
 <li></li>
 </ul>
 <h3>The AI world</h3>
 <ul>
 <li>[ESG economical stability analysis  - Dissertation] (https://github.com/Eliseous-freelance/diss.git)</li>
-<li>[Statistical Classification Models - Fundamentals of machine learning] (https://github.com/Eliseous-freelance/StatisticalModelsClassification-Uni-coursework.git)</li>
-<li>[Neural Networks - Acquired Intelligence and Adaptive Behaviour] (https://github.com/Eliseous-freelance/NeuralNetworks-Uni-coursework.git)</li>
-<li>[Optimisation - Acquired Intelligence and Adaptive Behaviour] (https://github.com/Eliseous-freelance/Optimisation-Uni-Coursework.git)</li>
-<li>[Learning in environment - Acquired Intelligence and Adaptive Behaviour] (https://github.com/Eliseous-freelance/AnAgentLearnsInEnvironment-Uni-coursework.git)</li>
+<li>[Statistical Classification Models - Fundamentals of machine learning] (https://github.com/Eliseous-freelance/StatisticalModelsClassification.git)</li>
+<li>[Neural Networks - Acquired Intelligence and Adaptive Behaviour] (https://github.com/Eliseous-freelance/NeuralNetworks.git)</li>
+<li>[Optimisation - Acquired Intelligence and Adaptive Behaviour] (https://github.com/Eliseous-freelance/Optimisation.git)</li>
+<li>[Learning in environment - Acquired Intelligence and Adaptive Behaviour] (https://github.com/Eliseous-freelance/AnAgentLearnsInEnvironment.git)</li>
 </ul>
 
 <h3>The Computer vision world</h3>
 <ul>
-<li>[Face Alignment - Computer Vision] (https://github.com/Eliseous-freelance/Facealignment-Uni-coursework.git)</li>
+<li>[Face Alignment - Computer Vision] (https://github.com/Eliseous-freelance/Facealignment.git)</li>
 </ul>
 
 <h3>The Natural Language Engineering world</h3>
 <ul>
-<li>[Sentiment analysis - Natural Language Engineering] (https://github.com/Eliseous-freelance/ReviewSentimentAnalysis-Uni-coursework.git)</li>
-<li>[Distributional semantics - Natural Language Engineering] (https://github.com/Eliseous-freelance/DistributionalSemantics-Uni-coursework.git)</li>
+<li>[Sentiment analysis - Natural Language Engineering] (https://github.com/Eliseous-freelance/ReviewSentimentAnalysis.git)</li>
+<li>[Distributional semantics - Natural Language Engineering] (https://github.com/Eliseous-freelance/DistributionalSemantics.git)</li>
 </ul>
 
 <h3>The unfinished Hobbies</h3>
